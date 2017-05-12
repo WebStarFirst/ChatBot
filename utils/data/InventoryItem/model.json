@@ -1,0 +1,66 @@
+[
+  {
+    "title": "Burger",
+    "description": "Chipotle mayo, Fried jalepenos and pepper jack cheese",
+    "price": 9,
+    "quantity": 100,
+    "item_type": "PRODUCT",
+    "image": "https://s3-us-west-1.amazonaws.com/seatjoy.io/assets/img/burger-2.jpeg"
+  },
+  {
+    "title": "Burger item type 1",
+    "description": "Chipotle mayo, Fried jalepenos and pepper jack cheese",
+    "price": 9,
+    "quantity": 100,
+    "item_type": "VARIANT",
+    "image": "https://s3-us-west-1.amazonaws.com/seatjoy.io/assets/img/burger-2.jpeg"
+  },
+  {
+    "title": "Fries",
+    "description": "simple french fries",
+    "price": 6,
+    "quantity": 100,
+    "item_type": "PRODUCT",
+    "image": "https://s3-us-west-1.amazonaws.com/seatjoy.io/assets/img/fries.jpeg"
+  },
+  {
+    "title": "Stadium Hotdog",
+    "description": "Fans favourite hotdog Dog with relish and mustard",
+    "price": 6,
+    "quantity": 100,
+    "item_type": "PRODUCT",
+    "image": "https://s3-us-west-1.amazonaws.com/seatjoy.io/assets/img/hotdog.jpeg"
+  },
+  {
+    "title": "Nachos with extra cheese",
+    "description": "Totilla chips, nachos chese and jalapenos",
+    "price": 8,
+    "quantity": 100,
+    "item_type": "PRODUCT",
+    "image": "https://s3-us-west-1.amazonaws.com/seatjoy.io/assets/img/nachos.jpeg"
+  },
+  {
+    "title": "Popcorn",
+    "description": "popcorn with butter",
+    "price": 12,
+    "quantity": 100,
+    "item_type": "PRODUCT",
+    "image": "https://s3-us-west-1.amazonaws.com/seatjoy.io/assets/img/popcorn.jpeg"
+  },
+  {
+    "title": "Pretzel",
+    "description": "bavarian pretzel, kids just love it",
+    "price": 8,
+    "quantity": 100,
+    "item_type": "PRODUCT",
+    "image": "https://s3-us-west-1.amazonaws.com/seatjoy.io/assets/img/pretzel.jpeg"
+  },
+  {
+    "title": "Burger extra cheese",
+    "description": "Chipotle mayo, Fried jalepenos and pepper jack cheese",
+    "price": 12,
+    "quantity": 100,
+    "item_type": "PRODUCT",
+    "image": "https://s3-us-west-1.amazonaws.com/seatjoy.io/assets/img/burger-2.jpeg"
+  }
+]

@@ -1,0 +1,28 @@
+{
+  "logging": {
+    "file": {
+      "maxSize": 31457280,
+      "maxFiles": 200,
+      "handleExceptions": true,
+      "level": "debug",
+      "path": "./logs"
+    },
+    "console": {
+      "level": "debug",
+      "handleExceptions": true,
+      "json": true,
+      "prettyPrint": true,
+      "colorize": true
+    }
+  },
+  "database": {
+    "logging": true,
+    "url":"postgresql://abhi:abhi@localhost:5432/abhi"
+  },
+  "bot" : {
+    "debug": true,
+    "port": 5777,
+     "page_token": "EAAHeAPBgqJABALLD66SnNxdgs3WadnLdZCzLdvHH2ZCZC7KhR8c1Vk56fzT67WvGKLYw5NmLDdZC0UfXaZAp16LcQGqWsVZC88QgKgmcqitOZClaOCLBBiq1wZCZBPgLaZBnprIGpZBEZAeq20pbJoAVGF1GX1O5anuAdQ6a7vcHvUFgKgZDZD",
+    "verify_token": "testbot"
+  }
+}
